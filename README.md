@@ -56,6 +56,6 @@ My commitment to continuous learning and improvement has been the cornerstone of
 ---
 
 ## 🔥 GitHub Streak
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=raymiesegars" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=raymiesegars&theme=default" alt="GitHub Streak" />
 </p>
